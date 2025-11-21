@@ -1,0 +1,7 @@
+{
+  "name": "PurrLog",
+  "description": "A fancy and robust tracker for your cat's daily activities like pee, poop, food, and play. Visualizes trends and persists data locally.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
